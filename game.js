@@ -23,7 +23,6 @@ function randomElement(array) {
   return array[index];
 }
 
-// TODO: Improve the "AI"
 function opponentMove(board, player) {
   return randomMove(board, player);
 }
@@ -136,3 +135,12 @@ function render(fields) {
     }, 1250);
   }
 }
+
+export { 
+  deleteChildren,
+  fieldId,
+  randomElement,
+  opponentMove,
+  randomMove,
+  render,
+};
