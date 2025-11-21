@@ -1,0 +1,168 @@
+{
+  "scriptId": "366",
+  "url": "file:///C:/Users/marvi/OneDrive/Desktop/orthello/board.js",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 0,
+          "endOffset": 7214,
+          "count": 1
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "Board",
+      "ranges": [
+        {
+          "startOffset": 416,
+          "endOffset": 754,
+          "count": 1
+        },
+        {
+          "startOffset": 495,
+          "endOffset": 629,
+          "count": 8
+        },
+        {
+          "startOffset": 561,
+          "endOffset": 597,
+          "count": 64
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [
+        {
+          "startOffset": 660,
+          "endOffset": 720,
+          "count": 4
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "of",
+      "ranges": [
+        {
+          "startOffset": 767,
+          "endOffset": 1371,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "validMoves",
+      "ranges": [
+        {
+          "startOffset": 1377,
+          "endOffset": 2661,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "play",
+      "ranges": [
+        {
+          "startOffset": 2667,
+          "endOffset": 4382,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "result",
+      "ranges": [
+        {
+          "startOffset": 4388,
+          "endOffset": 5087,
+          "count": 8
+        },
+        {
+          "startOffset": 4675,
+          "endOffset": 4907,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "copy",
+      "ranges": [
+        {
+          "startOffset": 5093,
+          "endOffset": 5359,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "adjacentOf",
+      "ranges": [
+        {
+          "startOffset": 5365,
+          "endOffset": 6008,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "fieldsWithState",
+      "ranges": [
+        {
+          "startOffset": 6014,
+          "endOffset": 6296,
+          "count": 24
+        },
+        {
+          "startOffset": 6099,
+          "endOffset": 6271,
+          "count": 192
+        },
+        {
+          "startOffset": 6144,
+          "endOffset": 6264,
+          "count": 1536
+        },
+        {
+          "startOffset": 6191,
+          "endOffset": 6255,
+          "count": 512
+        }
+      ],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "opponent",
+      "ranges": [
+        {
+          "startOffset": 6302,
+          "endOffset": 6480,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    },
+    {
+      "functionName": "isValidMove",
+      "ranges": [
+        {
+          "startOffset": 6486,
+          "endOffset": 7209,
+          "count": 0
+        }
+      ],
+      "isBlockCoverage": false
+    }
+  ]
+}
